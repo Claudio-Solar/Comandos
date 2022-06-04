@@ -1,2 +1,17 @@
+Comandos Inciales para Configurar Git
+=====================================
+
 git config --global user.name "Claudio Solar"
 git config --global user.email cv.solar16@gmail.com
+
+Comandos para crear subir un repositorio en GitHub
+==================================================
+
+git init
+git add .
+git commit -m "Mi primer commit"
+git remote add origin https://github.com/Claudio-Solar/Comandos.git
+git push -u origin master
+
+
+
