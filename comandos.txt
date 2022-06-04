@@ -1,0 +1,2 @@
+git config --global user.name "Claudio Solar"
+git config --global user.email cv.solar16@gmail.com
