@@ -13,5 +13,13 @@ git commit -m "Mi primer commit"
 git remote add origin https://github.com/Claudio-Solar/Comandos.git
 git push -u origin master
 
+Comandos para actualizar el repositorio de GitHub
+=================================================
+
+git add .
+git commit -m "Mi primer commit"
+git push -u origin master
+
+
 
 
